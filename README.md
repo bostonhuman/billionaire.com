@@ -9,3 +9,11 @@ Bootstrap easily and efficiently scales your websites and applications with a si
 ## Full of features
 
 With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.
+
+## How to run this application in your local machine?
+
+* In your terminal type:
+```
+git clone https://github.com/bostonhuman/billionaire.com
+```
+* Open `index.html` to run the app.
